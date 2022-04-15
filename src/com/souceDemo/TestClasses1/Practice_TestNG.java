@@ -11,7 +11,7 @@ public class Practice_TestNG
 		System.out.println("sssdcs");
 	}
 	
-	@Test (priority= -1)
+	@Test (priority= 1)
 	
 	public void method2()
 	{
