@@ -27,7 +27,7 @@ public class Practice_TestNG
 	
 	@Test (priority= -3)
 	public void Login()
-	{
+	{   System.out.println("Login");
 		System.out.println("Login");
 	}
 	
