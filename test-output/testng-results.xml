@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="166" started-at="2022-04-15T13:23:09 IST" finished-at="2022-04-15T13:23:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="166" started-at="2022-04-15T13:23:09 IST" finished-at="2022-04-15T13:23:09 IST">
+      <class name="com.souceDemo.TestClasses1.Practice_TestNG">
+        <test-method status="PASS" signature="Login()[pri:-3, instance:com.souceDemo.TestClasses1.Practice_TestNG@a38d7a3]" name="Login" duration-ms="21" started-at="2022-04-15T13:23:09 IST" finished-at="2022-04-15T13:23:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="method1()[pri:-2, instance:com.souceDemo.TestClasses1.Practice_TestNG@a38d7a3]" name="method1" duration-ms="4" started-at="2022-04-15T13:23:09 IST" finished-at="2022-04-15T13:23:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:-1, instance:com.souceDemo.TestClasses1.Practice_TestNG@a38d7a3]" name="method2" duration-ms="3" started-at="2022-04-15T13:23:09 IST" finished-at="2022-04-15T13:23:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="Logout()[pri:4, instance:com.souceDemo.TestClasses1.Practice_TestNG@a38d7a3]" name="Logout" duration-ms="13" started-at="2022-04-15T13:23:09 IST" depends-on-methods="com.souceDemo.TestClasses1.Practice_TestNG.Login" finished-at="2022-04-15T13:23:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- com.souceDemo.TestClasses1.Practice_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
